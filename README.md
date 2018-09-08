@@ -1,5 +1,6 @@
 # WhyILeftGithub
-An explanation as to why I no longer host my repositories on Github.
+An explanation as to why I no longer host my personal repositories on Github.
+I maintain my github presence to collaborate on ZeroMQ and rsyslog, as these communities are centered here.
 
 Github has [entered into an agreement with Microsoft](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/) to be purchased. Under this agreement, "GitHub will be led by CEO Nat Friedman, an open source veteran and founder of Xamarin, who will continue to report to Microsoft Cloud + AI Group Executive Vice President Scott Guthrie".
 
